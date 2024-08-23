@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/use_reducer_demo/static/css/main.702db094.css",
+    "main.js": "/use_reducer_demo/static/js/main.11fc4a18.js",
+    "static/js/453.60b6d227.chunk.js": "/use_reducer_demo/static/js/453.60b6d227.chunk.js",
+    "static/media/doublebarrel.jpg": "/use_reducer_demo/static/media/doublebarrel.ef73ab811708e150eacf.jpg",
+    "static/media/walter_ppk.jpg": "/use_reducer_demo/static/media/walter_ppk.9b6ed80b4948efd347ae.jpg",
+    "static/media/AK-47.jpg": "/use_reducer_demo/static/media/AK-47.525c0d158c3d300b92e4.jpg",
+    "index.html": "/use_reducer_demo/index.html",
+    "main.702db094.css.map": "/use_reducer_demo/static/css/main.702db094.css.map",
+    "main.11fc4a18.js.map": "/use_reducer_demo/static/js/main.11fc4a18.js.map",
+    "453.60b6d227.chunk.js.map": "/use_reducer_demo/static/js/453.60b6d227.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702db094.css",
+    "static/js/main.11fc4a18.js"
+  ]
+}
